@@ -162,9 +162,9 @@ Enterprise ETL pipeline with business intelligence
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AminaLouazir&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amina-louazir&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AminaLouazir&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amina-louazir&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AminaLouazir&theme=radical&hide_border=true)
 
 </div>
 
@@ -197,6 +197,6 @@ I'm always interested in collaborating on innovative AI/ML projects and discussi
 
 ### ⭐ *"Turning data into insights, insights into action"* ⭐
 
-![Profile Views](https://komarev.com/ghpvc/?username=amina-louazir&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=AminaLouazir&color=blueviolet&style=flat-square)
 
 </div>
