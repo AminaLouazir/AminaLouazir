@@ -2,7 +2,7 @@
 
 # 👩‍💻 Amina Louazir
 
-### AI Engineer | Data Scientist | Full-Stack Developer
+### AI Engineer | Data Scientist 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/amina-louazir-](https://www.linkedin.com/in/amina-louazir-19844127a-))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louaziramina20181@gmail.com)
